@@ -34,6 +34,8 @@
 - 多个快捷操作按钮
 
 <img width="1377" height="832" alt="image" src="https://github.com/user-attachments/assets/f555ba5a-fb10-4d89-8a2f-18d540623423" />
+<img width="1374" height="832" alt="image" src="https://github.com/user-attachments/assets/9a2a1280-c40c-440e-9eb5-d0e9c52a4f5d" />
+
 
 
 
