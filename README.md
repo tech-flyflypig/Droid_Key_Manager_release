@@ -33,8 +33,8 @@
 - 状态标签（正常/已过期/已登录/已暂停）
 - 多个快捷操作按钮
 
+<img width="1377" height="832" alt="image" src="https://github.com/user-attachments/assets/f555ba5a-fb10-4d89-8a2f-18d540623423" />
 
-<img width="1380" height="832" alt="image" src="https://github.com/user-attachments/assets/349d5965-55ec-47aa-83eb-5d3f26d65f9c" />
 
 
 ## 📖 使用说明
