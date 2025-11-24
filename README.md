@@ -49,7 +49,7 @@
 
 点击右上角的 **"➕ 添加Token"** 按钮，在弹出的对话框中填写：
 
-- 域名（例如：d2.api.augmentcode.com）
+- 域名（例如：api@example.com）
 - Token密钥
 - 关联账号（可选）
 - 已用Token数量
@@ -70,13 +70,15 @@ JSON文件格式示例：
 {
   "tokens": [
     {
-      "domain": "d2.api.augmentcode.com",
-      "token": "sk-example-token-1234567890",
-      "account": "user@example.com",
-      "created_time": "2025/11/17 22:48",
+      "api-key": "fk-xxxxx",
+      "account": "体验号",
+      "created_time": "2025/11/15 00:30",
       "used_tokens": 0,
-      "remaining_tokens": 34000,
-      "status": "normal"
+      "remaining_tokens": 10000000,
+      "status": "normal",
+      "total_allowance": 10000000,
+      "start_time": "2025-11-14",
+      "expire_time": "2025-12-14"
     }
   ]
 }
